@@ -23,4 +23,5 @@ The application can offer a platform for fans to pay tribute and remember the fa
 Students may find the app useful to analyse trends in celebrity culture, understanding the impact of media representation and exploring the dynamics of fame and being a celebrity. Overall the application can serve as both a resourse and a tribute, celebrating the lives and legacies of celebrities who have left a mark on popular culture.
 
 https://www.youtube.com/watch?v=3zdkUHq9RaI
+
 https://www.edureka.co/blog/applications-of-java/
