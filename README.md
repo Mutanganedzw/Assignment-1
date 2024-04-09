@@ -1,5 +1,6 @@
 # Assignment-1
 Documentation on how the Application will be beneficial to Students.
+
 This Documentation will help to understand how I created my Application on Android Studios using the language Java Script. First I named my file IMAD ASSIGNMENT 1, inside the file I have two other files which are namely “activity_main.xml” and “main activity kt”. With that being done I had to include Palettes in the activity main in order to start making the application, I used texts such as Text View and Plain Text including buttons.
 
 My Applications title is “My History App” and it includes options of: Enter Age, Generate History, Clear and Show Results. After including the options I had to constrain them together in order for them to be in right places when I run the Application. With that being done I Had to change the background to Yellow which was the background of my choice, and I changed the Font for it to appear visible when I run the application. 
