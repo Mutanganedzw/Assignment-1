@@ -21,3 +21,6 @@ Such an Application could serve as both an educational tool and a source of pers
 The application can offer a platform for fans to pay tribute and remember the famouse people. Highlighting the accomplishments and contributions of deceases celebrities, the application can educate students about various fields. it can also inspire future generations by showcasing the journeys and struggles these individuals faced on their path to being successful. As time passes, memories of past celebrities can fade. An application dedicated to deceased celebrities helps preserve their cultural significance for future generations, ensuring that their influence is not forgotten.
 
 Students may find the app useful to analyse trends in celebrity culture, understanding the impact of media representation and exploring the dynamics of fame and being a celebrity. Overall the application can serve as both a resourse and a tribute, celebrating the lives and legacies of celebrities who have left a mark on popular culture.
+
+https://www.youtube.com/watch?v=3zdkUHq9RaI
+https://www.edureka.co/blog/applications-of-java/
